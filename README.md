@@ -2,7 +2,7 @@
 ---
 
 ### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=A-Rogachev&theme=vue)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=A-Rogachev&theme=vue)](https://git.io/streak-stats)-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Rogachev&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)-->
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=A-Rogachev&theme=github)
 
